@@ -1,1 +1,1 @@
-# MAILTO
+# MAILTO Tutorial
